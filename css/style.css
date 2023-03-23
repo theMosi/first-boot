@@ -10,3 +10,13 @@
 body {
     font-family: "Vazir" !important;
 }
+
+.icon {
+
+    color:#e02222;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+
+}
