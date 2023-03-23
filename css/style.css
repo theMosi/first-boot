@@ -25,3 +25,11 @@ body {
     background: #1b2a4e;
     color: white !important;
 }
+
+.bg-main {
+    background-color: #1b2a4e;
+}
+
+.ma-text-muted {
+    color:#6c757d!important;
+}
